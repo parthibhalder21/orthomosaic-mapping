@@ -39,3 +39,9 @@ This project generates an **orthomosaic map** from a drone video using both **ho
 ## 📜 License
 
 This project is under the MIT License.
+
+## 📚 Reference
+
+- OpenCV Image Stitching Documentation: [https://docs.opencv.org/4.x/d8/d19/tutorial_stitcher.html](https://docs.opencv.org/4.x/d8/d19/tutorial_stitcher.html)  
+- Orthophoto (Orthomosaic) Concept: [https://en.wikipedia.org/wiki/Orthophoto](https://en.wikipedia.org/wiki/Orthophoto)  
+- UAV/Drone Mapping Techniques: Based on common photogrammetry workflows using mixed horizontal & vertical imagery.
